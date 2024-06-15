@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+This project is created by the help of react-redux and redux-toolkit for state management .
+This project is created to explore the things of redux-tookkit and to understand the functionality of redux-toolkit .
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
